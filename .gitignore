@@ -2,6 +2,7 @@
 .vs/
 */backup/*
 */geo/*
+*/render/*
 # Compiled Object files
 *.slo
 *.lo

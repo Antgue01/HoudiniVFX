@@ -1,0 +1,32 @@
+{
+	"version":2,
+	"name":"mp5",
+	"static":[
+		{
+			"transform":"mixamorig_RightHandMiddle1",
+			"shape":"mp5",
+			"bounds_scale":[1,1,1],
+			"deformer":""
+		}
+	],
+	"deforming":[
+		{
+			"transform":"",
+			"shape":"default.Soldier_body",
+			"bounds_scale":[1,1,1],
+			"deformer":"linearskinning"
+		},
+		{
+			"transform":"",
+			"shape":"default.Soldier_head",
+			"bounds_scale":[1,1,1],
+			"deformer":"linearskinning"
+		},
+		{
+			"transform":"",
+			"shape":"default.Soldier_helmet_001",
+			"bounds_scale":[1,1,1],
+			"deformer":"linearskinning"
+		}
+	]
+}
