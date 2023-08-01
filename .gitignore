@@ -74,6 +74,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
 Shield/Assets/Rocks/1/xd0mcf2_8K_Displacement.exr
 Shield/Assets/Rocks/3/uk4sehs_8K_Displacement.exr
 Shield/Assets/Rocks/2/xd0mcf2_8K_Roughness.exr
@@ -84,3 +86,12 @@ Shield/Assets/Rocks/2/xd0mcf2_8K_Albedo2.exr
 Shield/Assets/Rocks/2/xd0mcf2_8K_Albedo.psd
 Shield/Assets/Rocks/2/xd0mcf2_8K_Albedo.exr
 Shield/Assets/Rocks/Floor/wikjbetbw_4K_Albedo2.psd
+Shield/Assets/Rocks/2/xd0mcf2_8K_Albedo2.png
+Shield/Assets/Rocks/HeightField/Rock_Rough_vimldgeg_surface_Preview.png
+Shield/Assets/Rocks/HeightField/vimldgeg.json
+Shield/Assets/Rocks/HeightField/vimldgeg_8K_Albedo.png
+Shield/Assets/Rocks/HeightField/vimldgeg_8K_AO.png
+Shield/Assets/Rocks/HeightField/vimldgeg_8K_Displacement.png
+Shield/Assets/Rocks/HeightField/vimldgeg_8K_Normal.png
+Shield/Assets/Rocks/HeightField/vimldgeg_8K_Roughness.png
+Shield/Assets/Rocks/HeightField/vimldgeg_8K_Specular.png
